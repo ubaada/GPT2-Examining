@@ -11,3 +11,6 @@ Use the cdo.py (Counterfactual Data Augmentation) script to produce the manipula
 - cdo_80.txt
 
 Retrain the GPT2 model on either split_80.txt or cdo_80.txt and compare.
+
+## Google Colab
+Use [this notebook](https://colab.research.google.com/drive/1VLG8e7YSEwypxU-noRNhsv5dW4NfTGce#scrollTo=H7LoMj4GA4n_) and Google GPU cloud instances to work with a GPT-2 instance.
